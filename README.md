@@ -1,2 +1,0 @@
-# DooJoo
-Test Repository
